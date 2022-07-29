@@ -61,7 +61,7 @@ a:focus {
 .hero { 
     text-align: left;
     padding: 14rem 0 25rem;
-    background-image: url("../img/moon.jpg");
+    background-image: url("moon.jpg");
     background-size: cover;
 }
 
